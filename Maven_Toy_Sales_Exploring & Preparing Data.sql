@@ -1,3 +1,8 @@
+--These queries are used to modify and clean the data in the tables related to a toy store's inventory, products, stores, and sales. 
+--The comments provide clear explanations for each query, including the purpose and expected outcome of each modification. 
+-- The queries involve changing data types, adding unique characters to IDs, and removing certain characters from strings. 
+-- The comments also include queries to check for updated data and column types after modifications are made
+
 
 --query inventory data table
 SELECT *
