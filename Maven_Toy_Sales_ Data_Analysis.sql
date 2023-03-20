@@ -1,4 +1,5 @@
--- I need to join sales', 'products', 'stores', 'inventory tables, first i check where 
+-- I performed these queries to analyze data.
+-- I need to join sales', 'products', 'stores', 'inventory tables
 
 SELECT COLUMN_NAME, TABLE_NAME, DATA_TYPE 
 FROM INFORMATION_SCHEMA.COLUMNS 
